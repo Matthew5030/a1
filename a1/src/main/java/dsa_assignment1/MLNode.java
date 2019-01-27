@@ -21,7 +21,7 @@ public class MLNode<E> implements MLNodeInterface<E>
 		this.next1.setPrev1(this.prev1);
 		this.setPrev1(this);
 		this.setNext1(this);
-		
+		//hello worldyz
 		return this;
 	}
 
